@@ -1,4 +1,4 @@
-# [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem)
+# [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true)
 ## Easy
 <div class="challenge-body-html"><div class="challenge_problem_statement"><div class="msB challenge_problem_statement_body"><div class="hackdown-content"><svg style="display: none;"><defs id="MathJax_SVG_glyphs"></defs></svg><p>Query all columns (attributes) for every row in the <strong>CITY</strong> table.</p>
 
