@@ -1,0 +1,6 @@
+// HackerRank Problem: Japanese Cities' Attributes
+// Link: https://www.hackerrank.com/challenges/japanese-cities-attributes/problem
+// Difficulty: Easy
+// Language: db2
+
+select * from city where COUNTRYCODE ='JPN';
