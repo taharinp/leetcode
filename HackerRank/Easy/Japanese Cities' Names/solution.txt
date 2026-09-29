@@ -1,0 +1,6 @@
+// HackerRank Problem: Japanese Cities' Names
+// Link: https://www.hackerrank.com/challenges/japanese-cities-name/problem
+// Difficulty: Easy
+// Language: db2
+
+select name from city where countrycode='JPN';
